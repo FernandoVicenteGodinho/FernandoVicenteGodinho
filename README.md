@@ -12,9 +12,7 @@ No inicio do meu processo de aprendizagem comecei meus estudos desenvolvendo sit
 Como desde o começo do meu aprendizado eu queria me especializar no desenvolvimento mobile hibrido, focando na integração dos projetos com interação com usuario.
 
 ## Estou aprendendo
-<a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60" />
-</a>
 
 
 
