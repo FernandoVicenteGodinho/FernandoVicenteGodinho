@@ -12,7 +12,10 @@ No inicio do meu processo de aprendizagem comecei meus estudos desenvolvendo sit
 Como desde o começo do meu aprendizado eu queria me especializar no desenvolvimento mobile hibrido, focando na integração dos projetos com interação com usuario.
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80" height="80"/>
+<a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60" />
+</a>
+
 
 
 ## Contatos:<div><a href = "mailto:vicentegodinho20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/fernando-vicente-godinho-76a018143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
