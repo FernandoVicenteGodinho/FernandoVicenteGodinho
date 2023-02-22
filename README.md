@@ -8,7 +8,7 @@ Trabalhei 6 anos na área de planejamento programação e controle de produção
 
 No início do meu processo de aprendizagem comecei meus estudos desenvolvendo sites utilizando HTML/CSS/JAVASCRIPT, me aprofundando mais no framework REACT  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> me vi aonde tinha mais familiaridade e facilidade de desenvolvimento.
 
-Me aprofundando cada vez mais dentro do framework react e suas peculariedades, hoje programo utilizando typeScript para evitar problemas de tipagem e aumentar a eficiencia de meus projetos
+Me aprofundando cada vez mais dentro do framework react e suas peculiaridades, hoje programo utilizando typeScript para evitar problemas tipagem e aumentar a eficiência de meus projetos.
 
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60" />
