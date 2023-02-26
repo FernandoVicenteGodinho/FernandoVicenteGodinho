@@ -1,7 +1,7 @@
 
 # Olá, me chamo Fernando!
 
-Tenho 27 anos e a 6 meses venho estudando programação para ter uma mudança de carreira na minha vida.
+Tenho 27 anos e a 11 meses venho estudando programação para ter uma mudança de carreira na minha vida.
 Sempre fui apaixonado na área de TI, mas a vida sempre levou em outras oportunidades.
 
 Trabalhei 6 anos na área de planejamento programação e controle de produção (PPCP), cursei Engenharia Química nesse período, tenho um senso logico e resolução de problemas bem grande, bem como trabalho em equipe e facilidade de comunicação curta e objetiva.
